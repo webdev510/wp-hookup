@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: http://new.hookup.com/home-clone/
+Disallow: http://new.hookup.com/home-clone-2/
+Disallow: http://new.hookup.com/us/
+Sitemap: https://hookup.com/mpg-sitemap-app-integrations.xml
+Disallow: https://hookup.com/tour-to-the-beautiful-city-of-mpg_city-in-mpg_country/
+Disallow: https://hookup.com/?elementor_library=header-and-hero-layout-033021
+Sitemap: https://hookup.com/mpg-sitemap-us-cities.xml
+Disallow: https://hookup.com/test/
+Disallow: https://hookup.com/us/
+Sitemap: https://hookup.com/mpg-sitemap-world-cities.xml

@@ -1,0 +1,40 @@
+/*
+Theme Name: Shuttle Child
+Theme URI: https://shuttlethemes.com/features/
+Template: shuttle
+Author: ShuttleThemes
+Author URI: https://shuttlethemes.com
+Description: Shuttle is the awesome free version of Shuttle Pro. It is really good for professionals. If you want to make a business, for big or small this theme is good for you. So if it is a restaurant, sport, medical, startup, corporate, business, ecommerce, portfolio, freelancers or any type of online agency or firm you will want to use this cool design. It had a multi-purpose design with widget areas in footer, so now even easy to make blog / news website which looks really clean and professional. The theme is responsive, WPML, Polylang, Retina ready, SEO friendly, and is a super design. Shuttle is fast and lightweight and can be used for any type of website, fully compatible with eCommerce plugins like WooCommerce an JigoShop. Whether you are building a website for yourself, your business or are a freelancer building websites for your cliente, Shuttle is the perfect choice. Plus if works with all the major page builders such as Elementor, Beaver Builder, Visual Composer, Divi, SiteOrigin and so much more!
+Tags: one-column,two-columns,three-columns,right-sidebar,left-sidebar,custom-header,custom-menu,full-width-template,theme-options,threaded-comments,editor-style,featured-images,featured-image-header,post-formats,sticky-post,translation-ready,flexible-header,custom-background,grid-layout,footer-widgets,blog,e-commerce,portfolio
+Version: 1.2.10.1613590061
+Updated: 2021-02-17 19:27:41
+
+*/
+
+.elementor-location-footer { display:none; }
+.row { --bs-gutter-x: none; }
+
+.dm {
+display: flex;
+justify-content:center;
+}
+
+.elementor-column .elementor-element-testi > .elementor-widget-container {
+    padding: 70px 0px 30px 0px;
+    background-image: url('images/qoute.jpg');
+    background-repeat: no-repeat;
+    border-radius: 17px 17px 17px 17px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+}
+
+@media (max-width:361px) { 
+	.box { margin-left:0px; margin-right:0px; }
+    .dm { display: block; }
+  
+
+}
+
+@media (max-width:640px) { 
+	.box { margin-left:0px; margin-right:0px; } 
+	.dm { display: block; }
+}
