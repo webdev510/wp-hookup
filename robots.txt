@@ -10,4 +10,4 @@ Disallow: https://hookup.com/?elementor_library=header-and-hero-layout-033021
 Sitemap: https://hookup.com/mpg-sitemap-us-cities.xml
 Disallow: https://hookup.com/test/
 Disallow: https://hookup.com/us/
-Sitemap: https://hookup.com/mpg-sitemap-world-cities.xml
+Disallow: https://hookup.com/hookup/
